@@ -1,0 +1,45 @@
+
+.container{
+    margin-bottom: 80px;
+}
+.navbar{
+}
+
+#logo{
+    width: 60px;
+    height: 30px;
+}
+#search{
+    color: black;
+    border-color: black;
+    transition: all .5s;
+}
+.price{
+    color: rgb(221, 35, 2);
+}
+.buy_now{
+    text-decoration: none;
+    cursor: pointer;
+    color: white;
+    background-color: tomato;
+    border-radius: 10px;
+    padding: 5px 10px;
+}
+
+.carousel-inner{
+    background-color: rgb(253, 225, 220);
+    padding: 30px;
+    border-radius: 10px;
+}
+.test{
+    border-color: black;
+    background-color: blue;
+}
+.card{
+    padding: 15px;
+    border: none;
+}
+.card-body, .card-footer{
+    text-align: center;
+    border: none;
+}
